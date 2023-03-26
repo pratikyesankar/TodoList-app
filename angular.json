@@ -149,5 +149,8 @@
       }
     }
   },
-  "defaultProject": "angular-todo-app"
+  "defaultProject": "angular-todo-app",
+  "cli": {
+    "analytics": "c4243e43-40c6-42f1-a342-383f88b15ebd"
+  }
 }
